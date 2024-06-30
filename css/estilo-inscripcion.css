@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#contenedor-prin{
+    height: auto;
+}
+
+#contenido{
+    height: auto;
+    width: 100%;
+}
+
+/*LOGIN ESTILOS*/
+
+.container{
+    
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    text-align: center;
+}
+
+#caja-formulario form{    
+    background-color: rgb(125, 125, 189);
+    /*background-size: cover;*/
+    height: 300px;
+    width: 400px;
+    border-radius: 25px;
+}
+
+#caja-formulario form{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+#formulario{
+    align-items: center;
+}
+
+#formulario input{
+    height: 30px;
+}
+
+
+#footer{
+    width: 100%;
+    text-align: center;
+   /* margin-top: 30px;
+    padding-top: 15px; */
+
+    
+}
+
+aside{
+    background-color: rgb(189, 90, 123);
+    color: aliceblue;
+    font-weight: bold;
+    text-align: center;
+ 
+}
+
+aside a{
+    text-decoration: none;
+    color: aliceblue;
+}
+
+aside button a{
+    color: black;
+}
